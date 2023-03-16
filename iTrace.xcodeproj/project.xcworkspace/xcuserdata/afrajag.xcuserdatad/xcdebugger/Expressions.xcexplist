@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "InstanceParameter.setup(_:):InstanceParameter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static API.create(_:_:):API.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RenderObjectMap.updateScene(_:):RenderObjectMap.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GeometryParameter.setupInstance(_:):GeometryParameter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TeapotParameter.setup(_:):TeapotParameter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ITRParser.parse(_:_:):ITRParser.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
